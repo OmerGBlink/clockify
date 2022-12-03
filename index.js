@@ -20,7 +20,7 @@ const payload = {
     "customFields": []
 }
 
-// These are offset for UTC, will actually be 9 to 18
+// These are offset for timezone, will actually be 9 to 18 if script is executed from GMT+2
 const startTime = '06:00';
 const endTime = '15:00';
 
